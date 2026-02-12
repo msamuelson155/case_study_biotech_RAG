@@ -1,0 +1,32 @@
+Inclusion Criteria:
+
+* (Part A only) Participants who are at high risk of SARS-CoV-2 infection, defined as adults whose locations or circumstances put them at appreciable risk of exposure to SARS-CoV-2 and COVID-19.
+* Understands and agrees to comply with the study procedures and provides written informed consent.
+* Able to comply with study procedures based on the assessment of the Investigator.
+* Female participants of non-childbearing potential may be enrolled in the study. Non-childbearing potential is defined as surgically sterile (history of bilateral tubal ligation, bilateral oophorectomy, hysterectomy) or postmenopausal (defined as amenorrhea for ≥12 consecutive months prior to Screening without an alternative medical cause). A follicle-stimulating hormone (FSH) level may be measured at the discretion of the Investigator to confirm postmenopausal status.
+* Female participants of childbearing potential may be enrolled in the study if the participant fulfills all the following criteria:
+
+  * Has a negative pregnancy test at Screening and on the day of the first dose (Day 1, open-label Day 1, and booster dose Day 1).
+  * Has practiced adequate contraception or has abstained from all activities that could result in pregnancy for at least 28 days prior to the first dose (Day 1).
+  * Has agreed to continue adequate contraception through 3 months following the last dose (Day 29, open-label Day 29, and booster dose Day 1).
+  * Is not currently breastfeeding.
+* Healthy adults or adults with pre-existing medical conditions who are in stable condition. A stable medical condition is defined as disease not requiring significant change in therapy or hospitalization for worsening disease during the 3 months before enrollment.
+* (Part C Only) Is currently enrolled in Part B of the current study (mRNA-1273-P301).
+* (Part C Only) Has received at least 1 dose of mRNA-1273 in the current study (mRNA-1273-P301).
+
+Exclusion Criteria:
+
+* Is acutely ill or febrile 72 hours prior to or at Screening or dosing (Part B and Part C). Fever is defined as a body temperature ≥38.0°Celsius/100.4°Fahrenheit. Participants meeting this criterion may be rescheduled within the relevant window periods. Afebrile participants with minor illnesses can be enrolled/dosed at the discretion of the Investigator.
+* Is pregnant or breastfeeding.
+* (Part A Only) Known history of SARS-CoV-2 infection.
+* Prior (Part A) or concurrent (Part B and Part C) administration of non-study coronavirus (SARS-CoV, Middle East Respiratory Syndrome \[MERS\]-CoV) vaccine or current/planned simultaneous participation in another interventional study to prevent or treat COVID-19.
+* (Part A Only) Demonstrated inability to comply with the study procedures.
+* An immediate family member or household member of this study's personnel.
+* Known or suspected allergy or history of anaphylaxis, urticaria, or other significant adverse reaction to the vaccine or its excipients.
+* Bleeding disorder considered a contraindication to intramuscular injection or phlebotomy.
+* Has received or plans to receive a vaccine within 28 days prior to the first dose (Day 1) or plans to receive a non-study vaccine within 28 days prior to or after any dose of investigational product (IP) (except for seasonal influenza vaccine).
+* (Part A only) Has participated in an interventional clinical study within 28 days prior to the day of enrollment.
+* Immunosuppressive or immunodeficient state, including human immunodeficiency virus (HIV) infection, asplenia, and recurrent severe infections.
+* Has received systemic immunosuppressants or immune-modifying drugs for \>14 days in total within 6 months prior to IP dose administration (for corticosteroids ≥20 milligram (mg)/day of prednisone equivalent).
+* Has received systemic immunoglobulins or blood products within 3 months prior to the day of IP dose administration.
+* Has donated ≥450 milliliters (mL) of blood products within 28 days prior to IP dose administration.
